@@ -108,7 +108,7 @@ tzlocal==3.0
 uritemplate==3.0.1
 urllib3==1.26.6
 vine==5.0.0
-virtualenv==20.7.2
+virtualenv==20.26.6
 watchdog==1.0.2
 wcwidth==0.2.5
 Werkzeug==2.0.1
