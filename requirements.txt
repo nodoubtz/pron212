@@ -106,7 +106,7 @@ typing-extensions==3.10.0.2
 tzdata==2021.1
 tzlocal==3.0
 uritemplate==3.0.1
-urllib3==1.26.6
+urllib3==2.5.0
 vine==5.0.0
 virtualenv==20.7.2
 watchdog==1.0.2
